@@ -1,0 +1,15 @@
+{
+  "name": "buildingapiexpressjslab",
+  "version": "1.0.0",
+  "description": "Building API with Express JS",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacey Edwards",
+  "license": "ISC",
+  "dependencies": {
+    "cors": "^2.8.4",
+    "express": "^4.16.2"
+  }
+}
